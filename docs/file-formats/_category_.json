@@ -1,0 +1,8 @@
+{
+  "label": "File formats",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Get a detailed look at the different file formats that make up the changefile approach."
+  }
+}
