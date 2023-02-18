@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Changelogs
+# Changelog
 
 A _changelog_ is a structured file representing the record of released changes for a specific project. The changelog is checked into source control.
 

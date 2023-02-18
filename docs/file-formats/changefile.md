@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Changefiles
+# Changefile
 
 A _changefile_ is a small, structured file that represents one or more unreleased changes. This file is checked into source control along with the code changes it describes, and it is "consumed" (deleted) when those changes are released.
 
