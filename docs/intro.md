@@ -6,7 +6,11 @@ sidebar_position: 1
 
 _Changefiles_ are a way to track changes to projects in a repository, which are then used to bump versions, update changelogs, and release new versions of those projects (for example, publishing them to an NPM or Maven registry).
 
+:::info
+
 This website is not documentation for a specific toolset, but rather a reference specification for changefiles and some associated files, such as structured changelogs and publishing reports. If you're looking for tools that implement some or all of this specification, see the [Tools](./tools) section.
+
+:::
 
 ## How does it work?
 
